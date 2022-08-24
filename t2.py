@@ -1,2 +1,2 @@
-sate = int(input("Ympyrän säte: "))
-print(3.14*sate*sate)
+sade = int(input("Anna säteen: "))
+print(sade*sade*3.14)
